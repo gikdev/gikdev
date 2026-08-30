@@ -1,18 +1,18 @@
 ## Hi there 👋
 
-I'm **Mohammad Mahdi Bahrami**.
+I'm **Mohammad Mahdi Bahrami** (real name), and **Spec** (nick name).
 
 ### My Expertise:
-[![My Skills](https://skillicons.dev/icons?i=react,ts,vscode&perline=5&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,npm,cs,dotnet,vscode,vim&perline=4&theme=dark)](https://skillicons.dev)
 
 ### I know these well:
-[![My Skills](https://skillicons.dev/icons?i=cs,css,figma,git,github,html,js,md,npm,nodejs,tailwind,vim,windows&perline=5&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,figma,git,github,html,js,md,nodejs,windows&perline=5&theme=dark)](https://skillicons.dev)
 
 ### I'm still learning:
-[![My Skills](https://skillicons.dev/icons?i=docker,dotnet,githubactions,neovim,postgres,powershell,redux,regex,rider,sqlite,vue,visualstudio,vite&perline=5&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,githubactions,neovim,nextjs,postgres,powershell,redux,regex,rider,sqlite,vue,visualstudio,vite&perline=5&theme=dark)](https://skillicons.dev)
 
 ### I'd like to learn:
-[![My Skills](https://skillicons.dev/icons?i=cypress,devto,linkedin,nextjs,redis,rust,tauri,vitest,wasm&perline=5&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cypress,devto,linkedin,redis,rust,tauri,vitest,wasm&perline=5&theme=dark)](https://skillicons.dev)
 
 ### I've tried:
 [![My Skills](https://skillicons.dev/icons?i=adonis,alpinejs,angular,astro,bash,bootstrap,bun,electron,express,mysql,nestjs,pnpm,prisma,sentry,ubuntu,webstorm,svelte&perline=5&theme=dark)](https://skillicons.dev)
